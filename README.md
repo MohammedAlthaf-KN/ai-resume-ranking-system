@@ -124,7 +124,7 @@ BCA Graduate | Aspiring Data Scientist
 
 Give it a ⭐ on GitHub!
 =======
-\# 🤖 AI Resume Ranking System
+# 🤖 AI Resume Ranking System
 
 
 
@@ -132,55 +132,54 @@ An intelligent system that ranks resumes automatically based on a given job desc
 
 
 
-\---
+---
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
-\* 📄 Upload multiple resumes (PDF)
+* 📄 Upload multiple resumes (PDF)
 
-\* 🧠 Extract skills using NLP
+* 🧠 Extract skills using NLP
 
-\* 🎯 Match resumes with job description
+* 🎯 Match resumes with job description
 
-\* 📊 Rank candidates based on match percentage
+* 📊 Rank candidates based on match percentage
 
-\* 📥 Download results as CSV
+* 📥 Download results as CSV
 
-\* 🖥 Simple and user-friendly interface
-
-
-
-\---
+* 🖥 Simple and user-friendly interface
 
 
 
-\## 🛠 Tech Stack
+---
 
 
 
-\* Python
-
-\* NLP (Natural Language Processing)
-
-\* Scikit-learn
-
-\* Pandas \& NumPy
-
-\* Streamlit
-
-\* PDF Parsing (PyPDF2, pdfplumber)
+## 🛠 Tech Stack
 
 
+* Python
 
-\---
+* NLP (Natural Language Processing)
+
+* Scikit-learn
+
+* Pandas \& NumPy
+
+* Streamlit
+
+* PDF Parsing (PyPDF2, pdfplumber)
 
 
 
-\## 📂 Project Structure
+---
+
+
+
+## 📂 Project Structure
 
 
 
@@ -214,47 +213,47 @@ ai-resume-ranking-system/
 
 
 
-\---
+---
 
 
 
-\## 📸 Screenshots
+## 📸 Screenshots
 
 
 
-\### 🏠 Home Page
+### 🏠 Home Page
 
 
 
-!\[Home](screenshots/ai-resume-ranking-home.png)
+![Home](screenshots/ai-resume-ranking-home.png)
 
 
 
-\### 📝 Job Description Input
+### 📝 Job Description Input
 
 
 
-!\[Input](screenshots/ai-resume-ranking-input.png)
+![Input](screenshots/ai-resume-ranking-input.png)
 
 
 
-\### 📊 Ranking Results
+### 📊 Ranking Results
 
 
 
-!\[Results](screenshots/ai-resume-ranking-results.png)
+![Results](screenshots/ai-resume-ranking-results.png)
 
 
 
-\---
+---
 
 
 
-\## ⚙️ Installation
+## ⚙️ Installation
 
 
 
-1\. Clone the repository:
+1. Clone the repository:
 
 
 
@@ -268,7 +267,7 @@ cd ai-resume-ranking-system
 
 
 
-2\. Install dependencies:
+2. Install dependencies:
 
 
 
@@ -280,7 +279,7 @@ pip install -r requirements.txt
 
 
 
-3\. Run the application:
+3. Run the application:
 
 
 
@@ -292,31 +291,31 @@ streamlit run app.py
 
 
 
-\---
+---
 
 
 
-\## 🎯 How It Works
+## 🎯 How It Works
 
 
 
-1\. Enter a job description
+1. Enter a job description
 
-2\. Upload resumes (PDF format)
+2. Upload resumes (PDF format)
 
-3\. System extracts skills using NLP
+3. System extracts skills using NLP
 
-4\. Matches resumes with job requirements
+4. Matches resumes with job requirements
 
-5\. Displays ranked candidates with match %
-
-
-
-\---
+5. Displays ranked candidates with match %
 
 
 
-\## 📌 Example Keywords Used
+---
+
+
+
+## 📌 Example Keywords Used
 
 
 
@@ -324,44 +323,46 @@ Python, SQL, Data Analysis, Pandas, NumPy, Power BI, Tableau, Machine Learning, 
 
 
 
-\---
+---
 
 
 
-\## 💡 Future Improvements
+## 💡 Future Improvements
 
 
 
-\* 🔍 Use advanced models like BERT for better matching
+* 🔍 Use advanced models like BERT for better matching
 
-\* 🌐 Deploy as a web application
+* 🌐 Deploy as a web application
 
-\* 📊 Improve scoring algorithm
+* 📊 Improve scoring algorithm
 
-\* 🧾 Support more file formats (DOCX)
-
-
-
-\---
+* 🧾 Support more file formats (DOCX)
 
 
 
-\## 👨‍💻 Author
+---
 
 
 
-\*\*Mohammed Althaf K N\*\*
+## 👨‍💻 Author
+
+
+
+**Mohammed Althaf K N**
 
 BCA Graduate | Aspiring Data Scientist
 
 
 
-\---
+---
 
 
 
-\## ⭐ If you like this project
+## ⭐ If you like this project
 
 
 
 Give it a ⭐ on GitHub!
+
+
