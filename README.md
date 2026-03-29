@@ -59,7 +59,7 @@ ai-resume-ranking-system/
 
 ![Results](screenshots/ai-resume-ranking-results.png)
 
-### 📊 Ranking Results(CSV File)
+### 📊 Ranked CV List(CSV File)
 
 ![Results](screenshots/ai-resume-ranking-results(CSV).png)
 
