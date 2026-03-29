@@ -1,4 +1,4 @@
-# 🤖 AI Resume Ranking Syste
+# 🤖 AI Resume Ranking System
 
 An intelligent system that ranks resumes automatically based on a given job description using NLP and AI techniques.
 
