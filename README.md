@@ -350,7 +350,7 @@ Python, SQL, Data Analysis, Pandas, NumPy, Power BI, Tableau, Machine Learning, 
 
 
 
-\*\*Althaf\*\*
+\*\*Mohammed Althaf K N\*\*
 
 BCA Graduate | Aspiring Data Scientist
 
