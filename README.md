@@ -116,6 +116,7 @@ Python, SQL, Data Analysis, Pandas, NumPy, Power BI, Tableau, Machine Learning, 
 ## 👨‍💻 Author
 
 **Mohammed Althaf K N**
+
 BCA Graduate | Aspiring Data Scientist
 
 ---
